@@ -27,9 +27,8 @@ adsdasdsadsa `js`[<sup id="EUtBL">↓</sup>](#f-EUtBL) `bla`[<sup id="PNrVV">↓
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 something.js
 ```javascript
-🟩 1      const js = 'a';
 ⬜ 2      
-⬜ 3      const bla = '1';
+🟩 3      const bla = '1';
 ⬜ 4      
 ```
 
