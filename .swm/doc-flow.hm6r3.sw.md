@@ -4,7 +4,6 @@ name: doc flow
 file_version: 1.0.2
 app_version: 0.7.0-0
 file_blobs:
-  README.md: c7fc134057ca5f06e80ba0ac0cac14f76de292d6
   something.js: 031d3e31327075fac3bd8369c065e35d2ed99cf0
 ---
 
@@ -21,16 +20,6 @@ aa
 <br/>
 
 `📄 something.js`
-
-<br/>
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 README.md
-```markdown
-🟩 1      # testrepo
-⬜ 2      a
-⬜ 3      
-```
 
 <br/>
 
