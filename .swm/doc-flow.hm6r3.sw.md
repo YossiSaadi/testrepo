@@ -5,11 +5,8 @@ file_version: 1.0.2
 app_version: 0.7.0-0
 file_blobs:
   README.md: c7fc134057ca5f06e80ba0ac0cac14f76de292d6
+  something.js: 031d3e31327075fac3bd8369c065e35d2ed99cf0
 ---
-
-`📄 something.js`
-
-<br/>
 
 <div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBdGVzdHJlcG8lM0ElM0FZb3NzaVNhYWRp%2Fd95f176a-5185-40e7-bc7f-c6d178305365.png?alt=media&token=81ae8be6-c3a0-4e45-acc0-9cb7e8ae8b39" style="width:'50%'"/></div>
 
@@ -23,12 +20,27 @@ aa
 
 <br/>
 
+`📄 something.js`
+
+<br/>
+
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
 🟩 1      # testrepo
 ⬜ 2      a
 ⬜ 3      
+```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 something.js
+```javascript
+🟩 1      const js = 'a';
+⬜ 2      
+⬜ 3      const bla = '1';
+⬜ 4      
 ```
 
 <br/>
